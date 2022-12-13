@@ -42,4 +42,4 @@ To open the web app, paste [127.0.0.1:5000](http://127.0.0.1:5000/) into the bro
 
 ## Demo
 
-Click [here](https://drive.google.com/file/d/1e7MC5lHg0FjCRWUyrt0xykMl4zK8iqEU/view?usp=share_link) for a demo video of all the project's features.
+Click [here](https://youtu.be/wztOR02LBFI) for a demo video of all the project's features.
