@@ -23,6 +23,12 @@ The GUI app has several functionalities, including:
 * Show all of the properties in a given location, along with the average price per square meter for each unit type
 * Show all of the properties in a certain locatin in a given price range and with a given set of amenities
 
+## Files
+
+`script.ipynb` is the web scraping script that was used to obtain the data, clean it, and export to CSV using pandas dataframes
+`app.py` is the file containing the flask 
+`create_schema.sql` contains the SQL code for creating the database 
+`propertyfinder55_dump_final.sql` contains the SQL code for dumping the database onto a different server
 
 ## Instructions
 
