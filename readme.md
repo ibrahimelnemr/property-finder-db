@@ -28,7 +28,7 @@ The GUI app has several functionalities, including:
 * `script.ipynb` - web scraping script that was used to obtain the data, clean it, and export to CSV using pandas dataframes
 * `app.py` - running the GUI web app on a local server and querying the database to display the results graphically (Flask framework)
 * `create_schema.sql` - SQL code for creating the database 
-* `propertyfinder55_dump_final.sql` - SQL code for dumping the database onto a different server
+* `propertyfinder55_dump_final.sql` - SQL code executed on remote server to dump database contents
 
 ## Instructions
 
