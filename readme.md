@@ -45,7 +45,3 @@ python3 app.py
 ```
 
 To open the web app, paste [127.0.0.1:5000](http://127.0.0.1:5000/) into the browser
-
-## Demo
-
-Click [here](https://youtu.be/wztOR02LBFI) for a demo video of all the project's features.
